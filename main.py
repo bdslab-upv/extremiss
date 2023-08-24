@@ -8,9 +8,10 @@ DATE: 20/08/2023
 from os.path import join
 
 from pandas import read_csv
-from Preparation.prepfunc import split_data, scale_data
-from Imputation.imputfunc import impute_missings
+
 from Classification.classifunc import initialize_model, train_model_calculate_predictions
+from Imputation.imputfunc import impute_missings
+from Preparation.prepfunc import split_data, scale_data
 
 # SETTINGS
 # Data directory
