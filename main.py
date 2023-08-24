@@ -16,7 +16,7 @@ from Preparation.prepfunc import split_data, scale_data
 # SETTINGS
 # Data directory
 # replace with the directory where your data is located
-data_directory = 'C:/Users/Pablo/Desktop/Universitat/BDSLab/extremiss/'
+data_directory = './data/'
 
 # Data filename
 # replace with the filename of your csv data file
