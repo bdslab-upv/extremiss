@@ -24,7 +24,7 @@ The classifiers included are:
 - Multi-layer perceptron.
 
 This code has been evaluated on a protected COVID-19 data repository by the SUBCOVERWD-19 in the context of the project Severity Subgroup Discovery and Classification on COVID-19 Real World Data through Machine Learning and Data Quality assessment (SUBCOVERWD-19) funded by Fondo Supera COVID-19 by CRUE (Conferncia de Rectores de las Universidades Españolas) - Santander Universidades (Santander Bank). The results are published in the following article, please cite it if you use this code:
-Pablo Ferri, Nekane Romero-Garcia, Rafael Badenes, David Lora-Pablos, Teresa García Morales, Agustín Gómez de la Cámara, Juan M García-Gómez and Carlos Sáez  "Extremely missing numerical data in Electronic Health Records for machine learning can be managed through simple imputation methods considering informative missingness: a comparative of solutions in a COVID-19 mortality case study." Computer Methods and Programs in Biomedicine (2023) (Under Review)
+Pablo Ferri, Nekane Romero-Garcia, Rafael Badenes, David Lora-Pablos, Teresa García Morales, Agustín Gómez de la Cámara, Juan M García-Gómez and Carlos Sáez  "Extremely missing numerical data in Electronic Health Records for machine learning can be managed through simple imputation methods considering informative missingness: a comparative of solutions in a COVID-19 mortality case study." Computer Methods and Programs in Biomedicine (2023): 107803. https://doi.org/10.1016/j.cmpb.2023.107803.
 
 ## How to use it
 1. Download the entire repository.
